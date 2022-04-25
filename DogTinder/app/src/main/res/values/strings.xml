@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DogTinder</string>
+
+    <string name="p1_name">Buck</string>
+    <string name="p2_name">Roo</string>
+    <string name="p3_name">Donny Darko</string>
+    <string name="p4_name">Lola</string>
+    <string name="p5_name">Ronnie</string>
+    <string name="p6_name">Scoob</string>
+    <string name="p7_name">Fredward</string>
+
+    <string name="p1_bio">I will make you laugh on purpose and by accident.</string>
+    <string name="p2_bio">Kids love me and I love kids.\n\n...Not like that tho.</string>
+    <string name="p3_bio">Howling at the moon.</string>
+    <string name="p4_bio">Please be patient; I\'m still in training.</string>
+    <string name="p5_bio">I promise that once you look past my appearance, you\'ll love what I have to offer.</string>
+    <string name="p6_bio" tools:ignore="Typos">Looking for my Scooby Snack. Ree hee hee hee hee hee!</string>
+    <string name="p7_bio">A real momma\' boy.</string>
+
+</resources>

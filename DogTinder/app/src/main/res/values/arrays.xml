@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="userProfiles">
+        <item>@array/p1</item>
+        <item>@array/p2</item>
+        <item>@array/p3</item>
+        <item>@array/p4</item>
+        <item>@array/p5</item>
+        <item>@array/p6</item>
+        <item>@array/p7</item>
+    </array>
+
+    <array name="p1">
+        <item>@string/p1_name</item>
+        <item>@integer/p1_age</item>
+        <item>@integer/p1_distance</item>
+        <item>@string/p1_bio</item>
+        <item>@drawable/p1_img</item>
+    </array>
+    <array name="p2">
+        <item>@string/p2_name</item>
+        <item>@integer/p2_age</item>
+        <item>@integer/p2_distance</item>
+        <item>@string/p2_bio</item>
+        <item>@drawable/p2_img</item>
+    </array>
+    <array name="p3">
+        <item>@string/p3_name</item>
+        <item>@integer/p3_age</item>
+        <item>@integer/p3_distance</item>
+        <item>@string/p3_bio</item>
+        <item>@drawable/p3_img</item>
+    </array>
+    <array name="p4">
+        <item>@string/p4_name</item>
+        <item>@integer/p4_age</item>
+        <item>@integer/p4_distance</item>
+        <item>@string/p4_bio</item>
+        <item>@drawable/p4_img</item>
+    </array>
+    <array name="p5">
+        <item>@string/p5_name</item>
+        <item>@integer/p5_age</item>
+        <item>@integer/p5_distance</item>
+        <item>@string/p5_bio</item>
+        <item>@drawable/p5_img</item>
+    </array>
+    <integer-array name="p6">
+        <item>@string/p6_name</item>
+        <item>@integer/p6_age</item>
+        <item>@integer/p6_distance</item>
+        <item>@string/p6_bio</item>
+        <item>@drawable/p6_img</item>
+    </integer-array>
+    <integer-array name="p7">
+        <item>@string/p7_name</item>
+        <item>@integer/p7_age</item>
+        <item>@integer/p7_distance</item>
+        <item>@string/p7_bio</item>
+        <item>@drawable/p7_img</item>
+    </integer-array>
+
+</resources>

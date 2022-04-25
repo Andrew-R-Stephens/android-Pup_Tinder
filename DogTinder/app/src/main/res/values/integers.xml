@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="p1_age">5</integer>
+    <integer name="p2_age">1</integer>
+    <integer name="p3_age">7</integer>
+    <integer name="p4_age">2</integer>
+    <integer name="p5_age">3</integer>
+    <integer name="p6_age">60</integer>
+    <integer name="p7_age">4</integer>
+
+    <integer name="p1_distance">1</integer>
+    <integer name="p2_distance">45</integer>
+    <integer name="p3_distance">3</integer>
+    <integer name="p4_distance">9</integer>
+    <integer name="p5_distance">22</integer>
+    <integer name="p6_distance">1969</integer>
+    <integer name="p7_distance">1795</integer>
+
+    <drawable name="p1_img">@drawable/p1</drawable>
+    <drawable name="p2_img">@drawable/p2</drawable>
+    <drawable name="p3_img">@drawable/p3</drawable>
+    <drawable name="p4_img">@drawable/p4</drawable>
+    <drawable name="p5_img">@drawable/p5</drawable>
+    <drawable name="p6_img">@drawable/p6</drawable>
+    <drawable name="p7_img">@drawable/p7</drawable>
+
+</resources>
