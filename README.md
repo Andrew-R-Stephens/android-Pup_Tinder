@@ -1,3 +1,9 @@
+<div style={'display:float' align='center'}>
+  <br>
+  <img src="https://raw.githubusercontent.com/Andrew-R-Stephens/android_Dog-Tinder/main/DogTinder/app/src/main/res/drawable/love.png"/>
+  <h1 style="color: ghostwhite">Dog Tinder</h1>
+</div>
+
 <br>
 
 <div style="display:float" align="center">
@@ -7,8 +13,6 @@
 </div>
 
 <br>
-
-<h1 style="color: ghostwhite">Dog Tinder</h1>
 
 <p>A simulation of Tinder with the target audience being dogs instead of humans.</p>
 
